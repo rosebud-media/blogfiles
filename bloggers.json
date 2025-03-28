@@ -1,75 +1,101 @@
 {
-    "MrsJHomeLife": {
-      "pubkey": "",
-      "bio": "",
-      "profile_pic": "",
-      "socials": {
-        "twitter": "",
-        "nostr": "",
-        "mastodon": ""
-      },
-      "wallets": {
-        "btc": "",
-        "eth": "",
-        "sol": "",
-        "xmr": "",
-        "zec": ""
-      },
-      "last_updated": "2025-03-25T12:00:00Z"
+  "MrsJHomeLife": {
+    "pubkey": "",
+    "bio": "",
+    "profile_pic": "",
+    "socials": {
+      "twitter": "",
+      "nostr": "",
+      "mastodon": ""
     },
-    "DrEmmaPsych": {
-      "pubkey": "",
-      "bio": "",
-      "profile_pic": "",
-      "socials": {
-        "twitter": "",
-        "nostr": "",
-        "mastodon": ""
-      },
-      "wallets": {
-        "btc": "",
-        "eth": "",
-        "sol": "",
-        "xmr": "",
-        "zec": ""
-      },
-      "last_updated": "2025-03-25T12:00:00Z"
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
     },
-    "Equitoria": {
-      "pubkey": "",
-      "bio": "",
-      "profile_pic": "",
-      "socials": {
-        "twitter": "",
-        "nostr": "",
-        "mastodon": ""
-      },
-      "wallets": {
-        "btc": "",
-        "eth": "",
-        "sol": "",
-        "xmr": "",
-        "zec": ""
-      },
-      "last_updated": "2025-03-25T12:00:00Z"
+    "last_updated": "2025-03-25T12:00:00Z"
+  },
+  "DrEmmaPsych": {
+    "pubkey": "",
+    "bio": "",
+    "profile_pic": "",
+    "socials": {
+      "twitter": "",
+      "nostr": "",
+      "mastodon": ""
     },
-    "ModernMarriage": {
-      "pubkey": "",
-      "bio": "",
-      "profile_pic": "",
-      "socials": {
-        "twitter": "",
-        "nostr": "",
-        "mastodon": ""
-      },
-      "wallets": {
-        "btc": "",
-        "eth": "",
-        "sol": "",
-        "xmr": "",
-        "zec": ""
-      },
-      "last_updated": "2025-03-25T12:00:00Z"
-    }
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
+    },
+    "last_updated": "2025-03-25T12:00:00Z"
+  },
+  "Equitoria": {
+    "pubkey": "",
+    "bio": "",
+    "profile_pic": "",
+    "socials": {
+      "twitter": "",
+      "nostr": "",
+      "mastodon": ""
+    },
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
+    },
+    "last_updated": "2025-03-25T12:00:00Z"
+  },
+  "ModernMarriage": {
+    "pubkey": "",
+    "bio": "",
+    "profile_pic": "",
+    "socials": {
+      "twitter": "",
+      "nostr": "",
+      "mastodon": ""
+    },
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
+    },
+    "last_updated": "2025-03-25T12:00:00Z"
+  },
+  "TheNewAutonomy": {
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "vZZwQGYJOSatGYGNGUkPb0SrF1GdcM_o2csNjyAkwS5Qxg43VWholqoQwlNtNsrcH8niUEHqQl3kkEbPO3ETwsSEoDncp6PutTZQJiaTLZfql4J34CnHmWvOAdmwf0jIVGculcXZPhpkQ6hXvKQ3siXkGU5E4ksMsClgj7hAUARk85XrkgGH3FpPu5l0ivNszL0ubYR_e9CdgI_2WHxVwmUIdx1OksP1nn0DJZACtDCsqIXdZAd2461Y3_hJMJkCkURv9_x6SuD2kbmUOc4fkm7GKwlVy65kQ-zDgeKp1v3ZdDGW5rCJxNEAVbd-a0SBOLBY8rgdGFio0Z4U7Ol-kQ"
+    },
+    "bio": "sdfsdf",
+    "profile_pic": "",
+    "socials": {
+      "mastodon": "sdfsdf",
+      "nostr": "",
+      "twitter": ""
+    },
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
+    },
+    "last_updated": "2025-03-28T19:36:58.294Z"
   }
-  
+}
