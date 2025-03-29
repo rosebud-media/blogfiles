@@ -82,7 +82,7 @@
       "kty": "RSA",
       "n": "vZZwQGYJOSatGYGNGUkPb0SrF1GdcM_o2csNjyAkwS5Qxg43VWholqoQwlNtNsrcH8niUEHqQl3kkEbPO3ETwsSEoDncp6PutTZQJiaTLZfql4J34CnHmWvOAdmwf0jIVGculcXZPhpkQ6hXvKQ3siXkGU5E4ksMsClgj7hAUARk85XrkgGH3FpPu5l0ivNszL0ubYR_e9CdgI_2WHxVwmUIdx1OksP1nn0DJZACtDCsqIXdZAd2461Y3_hJMJkCkURv9_x6SuD2kbmUOc4fkm7GKwlVy65kQ-zDgeKp1v3ZdDGW5rCJxNEAVbd-a0SBOLBY8rgdGFio0Z4U7Ol-kQ"
     },
-    "bio": "The man, the myth, the legend",
+    "bio": "This is me",
     "profile_pic": "",
     "socials": {
       "mastodon": "sdfsdf",
@@ -96,7 +96,7 @@
       "xmr": "",
       "zec": ""
     },
-    "last_updated": "2025-03-29T20:12:50.494Z"
+    "last_updated": "2025-03-29T20:15:31.239Z"
   },
   "TestUser": {
     "pubkey": {
