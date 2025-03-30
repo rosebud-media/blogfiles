@@ -5,6 +5,20 @@
     "summary": "test",
     "dateApproved": "2025-03-30",
     "tags": [
+      "aaa",
+      "bbb"
+    ],
+    "mature": false,
+    "timestamp": "2025-03-30T21:49:46.057Z",
+    "originalFilename": "test.txt",
+    "ipfsCid": "QmamjWykrjS9Gob9vtnFkEGWiA44hNZc1sDBBSayAc6VQV"
+  },
+  {
+    "title": "test",
+    "author": "TheNewAutonomy",
+    "summary": "test",
+    "dateApproved": "2025-03-30",
+    "tags": [
       "sss",
       "vvv"
     ],
