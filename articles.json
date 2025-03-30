@@ -9,6 +9,20 @@
       "bbb"
     ],
     "mature": false,
+    "timestamp": "2025-03-30T21:40:31.753Z",
+    "originalFilename": "test.txt",
+    "ipfsCid": null
+  },
+  {
+    "title": "test",
+    "author": "TheNewAutonomy",
+    "summary": "test",
+    "dateApproved": "2025-03-30",
+    "tags": [
+      "aaa",
+      "bbb"
+    ],
+    "mature": false,
     "timestamp": "2025-03-30T21:37:21.880Z",
     "originalFilename": "test.txt",
     "ipfsCid": null
