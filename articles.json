@@ -1,5 +1,22 @@
 [
   {
+    "title": "Rosebud. A Privacy-Focused Blogging Platform",
+    "author": "TheNewAutonomy",
+    "summary": "Introducing the Rosebud blogging platform and its objectives, to protect privacy and guard against censorship.",
+    "dateApproved": "2025-03-31",
+    "tags": [
+      "blogging",
+      "privacy",
+      "IPFS",
+      "censorship",
+      "free-speech"
+    ],
+    "mature": false,
+    "timestamp": "2025-03-31T19:32:33.412Z",
+    "originalFilename": "RosebudBlogArticle.html",
+    "cid": "QmdJ5Ekdo431rWVTv6wZfyVeSNaWJY9UpUbGrgvaM1Whuu"
+  },
+  {
     "title": "A Closer Look at British Governance: A Monarchy with a Parliamentary Oligarchy",
     "cid": "bafybeievufs6r4zdncpucw4v7izsrdzypgbgvwtfsnd775eqrntibuuy7q",
     "author": "LoverOfLiberty",
