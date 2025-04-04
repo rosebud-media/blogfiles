@@ -1,6 +1,15 @@
 {
   "MrsJHomeLife": {
-    "pubkey": "",
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "voPURrMIvzIKaq9AB7YxF-n17sG0xgsqbxClAhNZb6LPHCJf-aJdPWXtfVUnXowNIJBCGb1Mzioxz-VQkltT1imjPmu0pj476ijOIaMh5nDkqt3jrQ30dX0_k_cHj2bgNBZ2ORcJOeQEfl2FGWBASYOYlDS_r_EyTAtejIZ4V8mJiHoMGyfF_sXf317nUmq4rEVPljSfGNlV7-I4VVEXtancr4MSraTrgz6gcOvV--v0pmOVhvsYP7Hm5Rb4cT1sndmIdAf4kBG8Vdlb69nQsFmpQl5tuW3PmMoyJibtIYVgo9E-SPSJ_NPgwEorT1M7yIJ6W1cKAwZ5OPEn5H7D_w"
+    },
     "bio": "",
     "profile_pic": "",
     "socials": {
@@ -18,7 +27,16 @@
     "last_updated": "2025-03-25T12:00:00Z"
   },
   "DrEmmaPsych": {
-    "pubkey": "",
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "qHfDBY8ihnVP-3tAeRlU4vT1h-hsshsOU2NrsdIr_WJhleBf7sN6jBcjSlGPXJ5vZk5LVwsKnZYMqfVB-lHfwgswt0gl9vnzc5AMcMeDFijrxmjPfoRxDmSjmGA3fuXOOgwu_boabTgU0MukNSLYWdw5VjudX-KQ_7-sEo0NP10z7UD64NJWFItMXGvfE8PxWC_aRJAS-L2NVG4kjfwWn2UcX0KmnZnlAEJxmllAuuxqZvBoW8rI3oDe8vOTP3sMOpn-X94qbhWY4MFANnEYFazHiU03HpuW7DQ8VAUjYDwbDW7GdrE_9r9FYYtrOY7FyyrgHRbyZBREoVdtZD-TbQ"
+    },
     "bio": "",
     "profile_pic": "",
     "socials": {
@@ -36,7 +54,16 @@
     "last_updated": "2025-03-25T12:00:00Z"
   },
   "Equitoria": {
-    "pubkey": "",
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "vIHkV6lrsDqOl3W93UWEIA9Git9gfDb2BZAyIxr79eKMA3F_tUZbwQmpi4urXthZyDY7x6Vicn47388ga9nVWH-Xcotf1_10kgojH_5OIWOZzB1tbeKrJYO1QTZYViGSRr7Az5KMu4-oENx0d1XPd9AvStWa3Z_EANGtrV08xPrP47T7dOp9fcFCtZPwIP7EhJ2nO5c4GTCSa0vL5ergIlIpSH6WB3boKLMEvvq3Tl9M3yQyZcuoaeSZuNMLcgA6yQgUDrElDF4lH5PVmM-eUdKd97YiTr7RfEM0fr1c4ga7uAsAmDrrVA-HMjKPkhyymYOPuMnp1q6DoJqk-1MV0Q"
+    },
     "bio": "",
     "profile_pic": "",
     "socials": {
@@ -54,7 +81,16 @@
     "last_updated": "2025-03-25T12:00:00Z"
   },
   "ModernMarriage": {
-    "pubkey": "",
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "3tt01IxKYQWg2MMJ8vK_VnRDhE-4PkBe4Swi_Aw7VDFrEij9AcmcO7nFGUFLyBZ3uxxn1f8qzWTihZhfL1MI827OJZuKeXtNgP07JvWW4ZuC9SUhG2RGUl60RDvA7xhz08m94nYWo23zX54zK8Wpa6_k7nCELwUAlMYi8TchC-BLAbBBadlfD3kcwG9A67K5mY2zSbakhCYF185PMfLDXZGvpdSdXp3wJfjGAohUJz8UspUXflQwZ3WSzLfhF4t5koUjYb5KE-_X7kwQQkaokMiN4-3e7Mj4TAQAnxdE7Rud8TVbnfNQboUrmeD6RQpd0KSSypdbGw40WbGYEBbqgw"
+    },
     "bio": "",
     "profile_pic": "",
     "socials": {
@@ -97,5 +133,32 @@
       "zec": ""
     },
     "last_updated": "2025-03-29T23:31:54.107Z"
+  },
+  "LoverOfLiberty": {
+    "pubkey": {
+      "alg": "RS256",
+      "e": "AQAB",
+      "ext": true,
+      "key_ops": [
+        "verify"
+      ],
+      "kty": "RSA",
+      "n": "pHOTFY9tE6r-PGQ2GZ7KM8B6DI1NnDWsrR3mXu5Ox0-0m-2AB9YaLHh7rW7tdAMv5Ya17ToigELU060SjQldVGNSNxiAot7ZIwMjrBoZ67HlCoQddJrxjAQ4N-PoW33-BGIcX8Tb4QceWlVx3KwApfYAFCaPZ1SFyLf1dHCrRiZwJLHnA0vXs6k5JZv_Hla2jANDpm25tqqe2_knTt38eI34FBWSh5k7b0rXpIN9wSGM4kp2lrkowQouJPdubjUj9A4BnBKLUpDUeo3ORJ_W4qCc6kSXUZY7wI1XOlxOffU7niAHA3kRdIY8xxRCpyYuEtbwIiqJJ849CLRPCFISbw"
+    },
+    "bio": "",
+    "profile_pic": "",
+    "socials": {
+      "twitter": "",
+      "nostr": "",
+      "mastodon": ""
+    },
+    "wallets": {
+      "btc": "",
+      "eth": "",
+      "sol": "",
+      "xmr": "",
+      "zec": ""
+    },
+    "last_updated": "2025-03-28T12:00:00Z"
   }
 }
